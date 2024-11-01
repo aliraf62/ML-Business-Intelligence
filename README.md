@@ -3,6 +3,13 @@
 ## Overview
 This project involves data manipulation, visualization, machine learning model training, and deployment. We use Python libraries to explore, train, evaluate, and deploy predictive models for a given dataset.
 This repository features a comprehensive machine learning project focused on data cleaning, E, model training, and deployment using Flask. The project includes building a Random Forest, Logistic Regression, and Neural Network to predict outcomes from a given dataset, highlighting model deployment capabilities through a API.
+
+## Project Objective: Predicting Customer Conversion for Enhanced User Experience
+In this project, I develop a predictive AI model to identify customer sessions that are likely to convert into purchases, leveraging historical session data for actionable insights. This is a binary classification task aimed at enhancing customer experience and boosting conversion rates in real time.
+The project involves data exploration, feature engineering, and model training, focusing on providing a business intelligence (BI) solution for better targeting and user experience optimization. Findings are presented in a business-friendly format, highlighting both strengths and limitations of the model for informed decision-making.
+All steps, from data analysis to presentation, are documented in this Jupyter Notebook with clear explanations for easy understanding.
+
+
 ## Key Steps
 1. **Import Libraries and Load Data**: Import necessary Python libraries (`pandas`, `numpy`, etc.) and load the dataset.
 2. **Data Cleaning**: Handle missing values and preprocess data for modeling.
