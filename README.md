@@ -1,10 +1,8 @@
-# ML-model-deployment-BI
-This repository features a comprehensive machine learning project focused on data cleaning, E, model training, and deployment using Flask. The project includes building a Random Forest, Logistic Regression, and Neural Network to predict outcomes from a given dataset, highlighting model deployment capabilities through a API.
 # Machine Learning Project: Model Training, Evaluation, and Deployment
 
 ## Overview
 This project involves data manipulation, visualization, machine learning model training, and deployment. We use Python libraries to explore, train, evaluate, and deploy predictive models for a given dataset.
-
+This repository features a comprehensive machine learning project focused on data cleaning, E, model training, and deployment using Flask. The project includes building a Random Forest, Logistic Regression, and Neural Network to predict outcomes from a given dataset, highlighting model deployment capabilities through a API.
 ## Key Steps
 1. **Import Libraries and Load Data**: Import necessary Python libraries (`pandas`, `numpy`, etc.) and load the dataset.
 2. **Data Cleaning**: Handle missing values and preprocess data for modeling.
